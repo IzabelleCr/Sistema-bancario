@@ -25,4 +25,4 @@ Este projeto faz parte do Bootcamp Python AI Backend Developer e consiste na cri
 
 ### Sair:
 
-Encerra o programa.
+- Encerra o programa.
