@@ -3,7 +3,7 @@ Desafio DIO Python AI Backend Developer - Projeto Banco - Parte 1
 
 Este projeto faz parte do Bootcamp Python AI Backend Developer e consiste na criação de um sistema bancário simples, implementado em Python. O sistema permite ao usuário realizar operações básicas como depósito, saque, visualização de extrato e saída do programa.
 
-##Funcionalidades Implementadas
+## Funcionalidades Implementadas
 
 ### Depósito:
 
