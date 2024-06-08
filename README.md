@@ -5,7 +5,7 @@ Este projeto faz parte do Bootcamp Python AI Backend Developer e consiste na cri
 
 ## Funcionalidades Implementadas
 
-##Depósito:
+## Depósito:
 
 - Permite ao usuário depositar um valor positivo na conta.
 - Atualiza o saldo e registra a transação no extrato.
