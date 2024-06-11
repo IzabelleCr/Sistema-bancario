@@ -1,5 +1,5 @@
 # Sistema-bancario
-Sistema-bancario: Desafio DIO Python AI Backend Developer - Projeto Banco - 
+Sistema-bancario: Desafio DIO Python AI Backend Developer - Projeto Banco
 
 Este projeto faz parte do Bootcamp Python AI Backend Developer e consiste na criação de um sistema bancário simples, implementado em Python. O sistema permite ao usuário realizar operações básicas como depósito, saque, visualização de extrato, cadastro de usuário, cadastro de conta bancária, listagem de contas e saída do programa.
 
